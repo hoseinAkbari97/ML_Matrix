@@ -1,0 +1,17 @@
+# Ignore virtual environment
+/ml_env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore data files
+*.csv
+*.hdf5
+
+# Ignore other temporary files
+.DS_Store
+*.log
